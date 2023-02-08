@@ -11,19 +11,9 @@
   --color-header: #161618;
   --color-header-hover: #303031;
 }
-:root:has(#color-changer:checked) {
-  --color-background: #ffffff;
-  --color-text: #131313;
 
-  --color-section: #7c7c7d;
-  --color-section-1: #a8a8a8;
-  --color-section-2: #bebebe;
 
-  --color-header: #eaeaeb;
-  --color-header-hover: #d6d5d6;
-}
-
-/* ------------------------- Reset Start  */
+/* ------------------------- Reset Start -- reset by andy bell */
 *,
 *::before,
 *::after {
